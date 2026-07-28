@@ -61,7 +61,8 @@ I'm a **Full-Stack Developer** passionate about building scalable applications, 
 ## 📫 Connect With Me
 
 * 📧 **Email:** [riv.christian19@gmail.com](mailto:riv.christian19@gmail.com)
-* 🌐 **GitHub:** https://github.com/Christian0162
+* 🌐 **Portfolio:** https://christian-llyod-rivera.vercel.app
+* 💻 **GitHub:** https://github.com/Christian0162
 
 ---
 
