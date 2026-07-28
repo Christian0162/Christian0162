@@ -66,4 +66,4 @@ I'm a **Full-Stack Developer** passionate about building scalable applications, 
 
 ---
 
-> *"Turning ideas into reliable software, one commit at a time."*
+> *"either we live, or we die."*
