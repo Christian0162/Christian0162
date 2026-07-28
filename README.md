@@ -7,10 +7,10 @@ Full-Stack Developer passionate about building scalable applications and solving
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,nodejs,spring,dotnet,postgres,firebase,redis,js,ts,php,python,java,docker,git,github,postman,playwright,jest,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,nodejs,spring,dotnet,postgres,firebase,redis,js,ts,php,python,java,docker,git,github,postman,jest,vscode" />
 </p>
 
-**Also familiar with:** REST APIs • SAP API Integration • Clean Architecture
+**Also familiar with:** REST APIs • SAP API Integration • Clean Architecture • Playwright
 
 ## 📌 Featured Projects
 
