@@ -13,7 +13,19 @@ Full-Stack Developer passionate about building scalable web applications, learni
 
 ## 🛠️ Tech Stack
 
-**Tech Stack:** React, Flutter, Tailwind CSS, HTML, CSS • Laravel, Node.js, ASP.NET MVC, Spring Boot • PostgreSQL, Firebase, Redis • JavaScript, TypeScript, PHP, Python, C#, Java • Git, GitHub, Docker, Postman, Playwright, Jest
+**💻 Languages:** JavaScript • TypeScript • PHP • Python • C# • Java
+
+**🎨 Frontend:** React • Flutter • HTML5 • CSS3 • Tailwind CSS
+
+**⚙️ Backend:** Laravel • Node.js • ASP.NET MVC • Spring Boot
+
+**🗄️ Databases & Cache:** PostgreSQL • Firebase • Redis
+
+**🔗 APIs & Enterprise:** REST API • SAP API Integration
+
+**🛠️ Tools:** Git • GitHub • Docker • Postman
+
+**🧪 Testing:** Playwright • Jest
 
 ## 🚀 Projects
 
@@ -21,11 +33,5 @@ Full-Stack Developer passionate about building scalable web applications, learni
 * 🎉 EventPro
 * 🛒 PeptieshayByKisha
 * 💇 Salon Management System
-
-## 📫 Connect
-
-* 🌐 Portfolio: https://christian-llyod-rivera.vercel.app
-* 💻 GitHub: https://github.com/Christian0162
-* 📧 Email: [riv.christian19@gmail.com](mailto:riv.christian19@gmail.com)
 
 > *"Either we live, or we die."*
