@@ -13,11 +13,11 @@ Full-Stack Developer passionate about building scalable web applications, learni
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React • Flutter • Tailwind CSS • HTML • CSS
-**Backend:** Laravel • Node.js • ASP.NET MVC • Spring Boot
-**Database:** PostgreSQL • Firebase • Redis
-**Languages:** JavaScript • TypeScript • PHP • Python • C# • Java
-**Tools:** Git • GitHub • Docker • Postman • Playwright • Jest
+**Frontend:** React, Flutter, Tailwind CSS, HTML, CSS
+**Backend:** Laravel, Node.js, ASP.NET MVC, Spring Boot
+**Database:** PostgreSQL, Firebase, Redis
+**Languages:** JavaScript, TypeScript, PHP, Python, C#, Java
+**Tools:** Git, GitHub, Docker, Postman, Playwright, Jest
 
 ## 🚀 Projects
 
