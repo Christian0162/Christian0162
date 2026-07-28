@@ -1,14 +1,20 @@
-Hi, I'm Christian Rivera 👋
+# Hi, I'm Christian 👋
 
-Junior Programmer @ Big Blue Logistics Corporation
+### 💼 Junior Programmer @ Big Blue Logistics Corporation
 
 Full-Stack Developer passionate about building scalable applications and solving real-world problems.
 
-🚀 Tech
-React • Flutter • Laravel • Node.js • ASP.NET MVC • Spring Boot • PostgreSQL • Firebase • Redis
+## 🛠️ Tech Stack
 
-📌 Featured Projects
-• TripEase — Real-time itinerary management platform
-• EventPro — Smart event planning platform
-• PeptieshayByKisha — Full-stack e-commerce application
-• Salon Management System — Booking and inventory system
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,nodejs,spring,dotnet,postgres,firebase,redis,js,ts,php,python,java,docker,git,github,postman,playwright,jest,vscode" />
+</p>
+
+**Also familiar with:** REST APIs • SAP API Integration • Clean Architecture
+
+## 📌 Featured Projects
+
+- 🧳 **TripEase** — Real-time itinerary management platform
+- 🎉 **EventPro** — Smart supplier management & analytics platform
+- 🛒 **PeptieshayByKisha** — Full-stack e-commerce application
+- 💇 **Salon Management System** — Booking, scheduling & inventory system
