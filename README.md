@@ -7,7 +7,7 @@ Full-Stack Developer passionate about building scalable applications and solving
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,nodejs,spring,dotnet,postgres,firebase,redis,js,ts,php,python,java,docker,git,github,postman,jest,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,dart,bash,react,nextjs,vue,flutter,laravel,nodejs,spring,fastapi,dotnet,tailwind,bootstrap,vite,postgres,mysql,firebase,redis,docker,gcp,git,github,postman,jest,figma,vscode,ubuntu,vercel" />
 </p>
 
 **Also familiar with:** REST APIs • SAP API Integration • Clean Architecture • Playwright
