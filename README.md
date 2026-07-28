@@ -4,9 +4,7 @@
 
 Full-Stack Developer passionate about building scalable applications and solving real-world problems.
 
-## 🛠️ Tech Stack
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,dart,bash,react,nextjs,vue,flutter,laravel,nodejs,spring,fastapi,dotnet,tailwind,bootstrap,vite,postgres,mysql,firebase,redis,docker,gcp,git,github,postman,jest,figma,vscode,ubuntu,vercel" />
 </p>
 
