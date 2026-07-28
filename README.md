@@ -1,69 +1,35 @@
-# Hi there, I'm Christian Rivera 👋
+# Hi, I'm Christian Llyod G. Rivera 👋
 
 ### 💼 Junior Programmer @ Big Blue Logistics Corporation
 
-I'm a **Full-Stack Developer** passionate about building scalable applications, designing clean architectures, and solving real-world problems through technology. I enjoy learning new tools, building reliable systems, and continuously improving my software engineering skills.
+Full-Stack Developer passionate about building scalable web applications, learning modern technologies, and creating reliable software solutions.
 
 ## 🚀 About Me
 
 * 💼 Junior Programmer at **Big Blue Logistics Corporation**
-* 🎓 BS Information Technology Graduate from **University of Cebu Lapu-Lapu and Mandaue (UCLM)**
+* 🎓 BSIT Graduate from **UCLM**
 * 💻 Former Full-Stack Developer Intern at **Sprobe Inc.**
-* 🌱 Currently expanding my knowledge in **Flutter**, **Redis**, **SAP API Integration**, and modern software architecture
-* 🤝 Always open to learning and collaborating on exciting projects
+* 🌱 Exploring Flutter, Redis, SAP API Integration, and Clean Architecture
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Frontend:** React • Flutter • Tailwind CSS • HTML • CSS
+**Backend:** Laravel • Node.js • ASP.NET MVC • Spring Boot
+**Database:** PostgreSQL • Firebase • Redis
+**Languages:** JavaScript • TypeScript • PHP • Python • C# • Java
+**Tools:** Git • GitHub • Docker • Postman • Playwright • Jest
 
-* JavaScript • TypeScript • PHP • Python • C# • Java
+## 🚀 Projects
 
-**Frontend**
+* 🧳 TripEase
+* 🎉 EventPro
+* 🛒 PeptieshayByKisha
+* 💇 Salon Management System
 
-* React • Flutter • HTML • CSS • Tailwind CSS • Inertia.js
+## 📫 Connect
 
-**Backend**
+* 🌐 Portfolio: https://christian-llyod-rivera.vercel.app
+* 💻 GitHub: https://github.com/Christian0162
+* 📧 Email: [riv.christian19@gmail.com](mailto:riv.christian19@gmail.com)
 
-* Laravel • Node.js • ASP.NET MVC • Spring Boot
-
-**Database**
-
-* PostgreSQL • Firebase • Redis
-
-**Enterprise & APIs**
-
-* REST API • SAP API Integration
-
-**Tools & DevOps**
-
-* Git • GitHub • Docker • Postman
-
-**Testing**
-
-* Playwright • Jest
-
-## 🚀 Featured Projects
-
-* 🧳 **TripEase** – Real-time itinerary management system using React, Laravel, Inertia.js, Tailwind CSS, and Mapbox API.
-* 🎉 **EventPro** – Smart event planning platform with supplier management, analytics, and real-time messaging.
-* 🛒 **PeptieshayByKisha** – Full-stack e-commerce platform powered by React, Firebase, and Docker.
-* 💇 **Salon Management System** – Booking, scheduling, inventory, billing, and reporting application.
-
-## 📈 Current Focus
-
-* Building scalable full-stack applications
-* Clean Architecture & Software Design
-* Flutter Cross-Platform Development
-* Redis Caching
-* SAP API Integration
-* Cloud & DevOps Practices
-
-## 📫 Connect With Me
-
-* 📧 **Email:** [riv.christian19@gmail.com](mailto:riv.christian19@gmail.com)
-* 🌐 **Portfolio:** https://christian-llyod-rivera.vercel.app
-* 💻 **GitHub:** https://github.com/Christian0162
-
----
-
-> *"either we live, or we die."*
+> *"Either we live, or we die."*
