@@ -41,7 +41,6 @@ Full-Stack Developer passionate about building scalable applications and solving
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
 </p>
 
 **Also familiar with:** REST APIs • SAP API Integration • Clean Architecture • Playwright
