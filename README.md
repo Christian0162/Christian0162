@@ -1,37 +1,14 @@
-# Hi, I'm Christian Llyod G. Rivera 👋
+Hi, I'm Christian Rivera 👋
 
-### 💼 Junior Programmer @ Big Blue Logistics Corporation
+Junior Programmer @ Big Blue Logistics Corporation
 
-Full-Stack Developer passionate about building scalable web applications, learning modern technologies, and creating reliable software solutions.
+Full-Stack Developer passionate about building scalable applications and solving real-world problems.
 
-## 🚀 About Me
+🚀 Tech
+React • Flutter • Laravel • Node.js • ASP.NET MVC • Spring Boot • PostgreSQL • Firebase • Redis
 
-* 💼 Junior Programmer at **Big Blue Logistics Corporation**
-* 🎓 BSIT Graduate from **UCLM**
-* 💻 Former Full-Stack Developer Intern at **Sprobe Inc.**
-* 🌱 Exploring Flutter, Redis, SAP API Integration, and Clean Architecture
-
-## 🛠️ Tech Stack
-
-**💻 Languages:** JavaScript • TypeScript • PHP • Python • C# • Java
-
-**🎨 Frontend:** React • Flutter • HTML5 • CSS3 • Tailwind CSS
-
-**⚙️ Backend:** Laravel • Node.js • ASP.NET MVC • Spring Boot
-
-**🗄️ Databases & Cache:** PostgreSQL • Firebase • Redis
-
-**🔗 APIs & Enterprise:** REST API • SAP API Integration
-
-**🛠️ Tools:** Git • GitHub • Docker • Postman
-
-**🧪 Testing:** Playwright • Jest
-
-## 🚀 Projects
-
-* 🧳 TripEase
-* 🎉 EventPro
-* 🛒 PeptieshayByKisha
-* 💇 Salon Management System
-
-> *"Either we live, or we die."*
+📌 Featured Projects
+• TripEase — Real-time itinerary management platform
+• EventPro — Smart event planning platform
+• PeptieshayByKisha — Full-stack e-commerce application
+• Salon Management System — Booking and inventory system
