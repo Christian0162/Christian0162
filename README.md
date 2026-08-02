@@ -49,5 +49,5 @@ Full-Stack Developer passionate about building scalable applications and solving
 
 - 🧳 **TripEase** — Real-time itinerary management platform
 - 🎉 **EventPro** — Smart supplier management & analytics platform
-- 🛒 **PeptieshayByKisha** — Full-stack e-commerce application
-- 💇 **Salon Management System** — Booking, scheduling & inventory system
+- 🛒 **PeptieshayByKisha** — Full-stack e-commerce application (Client Project)
+- 💇 **Salon Management System** — Booking, scheduling & inventory system (Client Project)
